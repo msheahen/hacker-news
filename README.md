@@ -1,4 +1,12 @@
-# Getting Started with Hacker News Redesign
+# Getting Started
+
+1. open terminal and run the command: `git clone https://github.com/msheahen/hacker-news.git`
+2. `cd hacker-news`
+3. run `npm install`
+4. run `npm start`
+5. Open web browser to `localhost:3000` to view application.
+
+## Getting Started with Hacker News Redesign
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
