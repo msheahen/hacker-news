@@ -1,0 +1,14 @@
+.App {
+  border-top: 4px solid #FE7139;
+  padding: 45px 90px 0 90px;
+  min-height:calc(100vh - 49px);
+  position:relative;
+  display:flex;
+  flex-direction:column;
+}
+
+@media(max-width:500px){
+  .App {
+    padding: 20px 30px 0 30px;
+  }
+}

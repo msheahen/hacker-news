@@ -1,0 +1,7 @@
+.darkModeButton{
+    background:transparent;
+    border:none;
+    outline:none;
+    appearance:none;
+    cursor:pointer;
+}

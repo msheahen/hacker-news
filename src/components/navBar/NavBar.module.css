@@ -1,0 +1,17 @@
+.filterRadio{
+    line-height:1;
+    font-size:14px;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:visited{
+    color:inherit;
+}
+
+.active{
+    color:#FE7139 !important;
+    font-weight:700;
+}

@@ -1,0 +1,17 @@
+.footer{
+    border-top:2px solid #FE7139;
+    width:100%;
+    text-align:center;
+    display:block;
+    justify-content:center;
+}
+
+h4{
+    margin: 20px 0 0 0;
+}
+
+.filterContainer{
+    display:block;
+    margin: 12px auto 26px auto;
+    width:100%;
+}
