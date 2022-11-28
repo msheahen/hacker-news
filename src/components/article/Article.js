@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { useSelector, useDispatch } from 'react-redux';
+import React from 'react';
 import styles from './Article.module.css';
 import {StarButton} from "../starButton/StarButton";
 
